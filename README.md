@@ -9,10 +9,12 @@
 
 How to use it
 - This only works on the steam workshop.
-- To get the required link go to the steam workshop and search for the desired game you wish to scrap after you reach the desired game, select most popular, most subscribed, or most recent.
-- Then scroll all the way to "see all items" and click it, then grab the url and add &actualsort=trend&p= to the end of the url and you will have a url that will work',
-  - Ex: https://steamcommunity.com/workshop/browse/appid=107410&browsesort=mostrecent&section=readytouseitems&actualsort=mostrecent&p=
+1. To get the required link go to the steam workshop and search for the desired game.
+2. After you reach the desired game, select most popular, most subscribed, or most recent.
+3. Scroll all the way to "see all items" and click it.
+4. Copy the url and add &actualsort=trend&p= to the end of the url.
+5. All done you will now have a working url for the program.
+- Ex: https://steamcommunity.com/workshop/browse/appid=107410&browsesort=mostrecent&section=readytouseitems&actualsort=mostrecent&p=
   
 Currently working on
 - I am currently trying to make an automated process for this.
-
